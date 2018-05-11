@@ -1,7 +1,10 @@
 # mtbgeekstats
 
-![Sector 2](https://imgur.com/PlcvsN0)
+![Losinj Sector 2 Scatter](https://i.imgur.com/b8nSCiv.png)
 
+![Losinj Rank Heatmap](https://i.imgur.com/PlcvsN0.png)
+
+![Losinj Race Positions](https://i.imgur.com/mm0QNvG.png)
 
 --- 
 
