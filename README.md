@@ -1,8 +1,10 @@
-# mtbgeekstats
+# MTB Geek Stats
 
 Repo to store Jupyter Notebooks and Python code to collect and analyse data on the MTB Race circuit.
 
-Examples from UCI DH MTB WC 2018 Round #1 in Losinj
+## Examples
+
+UCI DH MTB WC 2018 Round #1 in Losinj
 
 ![Losinj Sector 2 Scatter](https://i.imgur.com/b8nSCiv.png)
 
@@ -10,7 +12,9 @@ Examples from UCI DH MTB WC 2018 Round #1 in Losinj
 
 ![Losinj Race Positions](https://i.imgur.com/mm0QNvG.png)
 
---- 
+
+
+---
 
 ## Credits
 
