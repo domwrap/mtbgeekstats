@@ -1,3 +1,6 @@
+# Another possible data source for points:
+# https://dataride.uci.ch/iframe/EventResults/159692?competitionId=51866&disciplineId=7
+
 races = {
     1: {
         'name': 'losinj',
