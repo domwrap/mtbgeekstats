@@ -4,14 +4,15 @@ Collect and analyse data on the MTB race circuit, using Jupyter Notebooks and Py
 
 ## Examples
 
-UCI DH MTB WC 2018 Round #1 in Losinj
-
 ![Losinj Sector 2 Scatter](https://i.imgur.com/b8nSCiv.png)
 
 ![Losinj Rank Heatmap](https://i.imgur.com/PlcvsN0.png)
 
-![Losinj Race Positions](https://i.imgur.com/mm0QNvG.png)
+![Fort Bill Position Tracker](https://raw.githubusercontent.com/domwrap/mtbgeekstats/master/2018/dh2_fortbill/dh2_fortbill_m_position_tracker.png)
 
+![Fort Bill Finals vs Qualis](https://github.com/domwrap/mtbgeekstats/blob/master/2018/dh2_fortbill/dh2_fortbill_m_finals_vs_qualis_compare.png)
+
+![Fort Bill Age by Nation](https://raw.githubusercontent.com/domwrap/mtbgeekstats/master/2018/dh2_fortbill/dh2_fortbill_m_age_by_nation.png)
 
 ## Install Instructions
 
