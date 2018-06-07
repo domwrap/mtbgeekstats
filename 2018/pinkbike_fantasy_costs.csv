@@ -1,3 +1,4 @@
+mf,name,cost
 female,Rachel Atherton,675000
 male,Aaron Gwin,625000
 female,Myriam Nicole,625000
@@ -10,20 +11,20 @@ male,Loic Bruni,475000
 female,Emilie Siegenthaler,425000
 male,Loris Vergier,400000
 male,Danny Hart,375000
-male,Jack Moir ,350000
+male,Jack Moir,350000
 male,Mark Wallace,325000
 male,Laurie Greenland,325000
 female,Eleonora Farina,320000
 male,Gee Atherton,275000
 female,Marine Cabirou,275000
 male,Amaury Pierron,250000
-male,Marcelo Gutierrez,250000
+male,Marcelo Gutierrez Villegas,250000
 male,Luca Shaw,250000
 female,Miranda Miller,250000
 female,Morgane Charre,250000
 male,Remi Thirion,250000
 male,Florent Payet,225000
-male,Michael Hannah ,225000
+male,Michael Hannah,225000
 male,Jure Jabjek,210000
 male,Baptiste Pierron,200000
 male,Dean Lucas,200000
@@ -31,16 +32,16 @@ male,Rudy Cabirou,200000
 male,Adam Brayton,200000
 male,Connor Fearon,200000
 male,Brook Macdonald,200000
-male,George Brannigan ,200000
-male,Bernard Kerr ,200000
-male,Finnley Iles,200000
+male,George Brannigan,200000
+male,Bernard Kerr,200000
+male,Finn Iles,200000
 male,Matt Walker,200000
 male,Martin Maes,200000
-male,Phil Atwill,190000
+male,Philip Atwill,190000
 male,Jacob Dickson,180000
 male,Charlie Hatton,180000
 male,Rupert Chapman,180000
-male,Sam Blenkinsop,175000
+male,Samuel Blenkinsop,175000
 male,Charlie Harrison,175000
 male,Greg Williamson,175000
 male,Taylor Vernon,175000
@@ -54,8 +55,8 @@ male,Jack Reading,150000
 male,Faustin Figaret,150000
 female,Monika Hrastnik,150000
 male,Thomas Estaque,150000
-male,Joe Smith,140000
-female,Vaea Verbeeck ,140000
+male,Joseph Smith,140000
+female,Vaea Verbeeck,140000
 male,Loris Revelli,135000
 male,Alex Marin,135000
 male,Eliot Jackson,135000
@@ -79,12 +80,12 @@ male,Benoit Cougoureux,70000
 male,Johannes Fischbach,70000
 male,Francesco Colombo,65000
 male,Shane Leslie,65000
-male,Laly Thibault,60000
+male,Thibault Laly,60000
 male,Jackson Frew,60000
 male,Dylan Levesque,60000
 male,Kiran Mackinnon,60000
 female,Tegan Molloy,50000
-male,Thibault Ruffin,50000
+male,Thibaut Ruffin,50000
 male,Kenta Gallagher,50000
 male,Sylvain Cougoureux,50000
 male,Joshua Button,40000
@@ -114,7 +115,7 @@ male,Jasper Jauch,10000
 male,Stanislav Sehnal,10000
 male,Remy Morton,10000
 male,Keegan Wright,10000
-male,Ziga Pandur ,5000
+male,Ziga Pandur,5000
 male,Oscar Harnstrom,5000
 male,Maxime Ciriego,5000
 male,Marco Milivinti,5000
