@@ -1,5 +1,6 @@
 # Another possible data source for points:
 # https://dataride.uci.ch/iframe/EventResults/159692?competitionId=51866&disciplineId=7
+# https://dataride.uci.ch/iframe/CompetitionResults/51869/7/
 
 races = {
     1: {
@@ -29,7 +30,7 @@ races = {
         'date': '20180610',
         'urls': {
             'uci': 'http://prod.chronorace.be/api/results/uci/dh/race/20180609_dh/',
-            'rnr': ''
+            'rnr': 'https://www.rootsandrain.com/race5899/2018-jun-10-mercedes-benz-uci-world-cup-3-leogang/results/filters/'
         }
     },
     4: {
