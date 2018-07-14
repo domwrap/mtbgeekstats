@@ -50,20 +50,20 @@ races = {
             'name': 'valdisole',
             'title': 'Val di Sole',
             'loc': 'Italy',
-            'date': '20180708',
+            'date': '20180707',
             'urls': {
-                'uci': '',
-                'rnr': ''
+                'uci': 'http://prod.chronorace.be/api/results/uci/dh/race/20180706_dh/',
+                'rnr': 'https://www.rootsandrain.com/race5900/2018-jul-7-mercedes-benz-uci-world-cup-4-val-di-sole/results/filters/'
             }
         },
         5: {
             'name': 'vallnord',
             'title': 'Vallnord',
             'loc': 'Andorra',
-            'date': '20180715',
+            'date': '20180714',
             'urls': {
-                'uci': '',
-                'rnr': ''
+                'uci': 'http://prod.chronorace.be/api/results/uci/dh/race/20180713_dh/',
+                'rnr': 'https://www.rootsandrain.com/race5901/2018-jul-15-mercedes-benz-uci-world-cup-5-vallnord/results/filters/'
             }
         },
         6: {
@@ -72,8 +72,8 @@ races = {
             'loc': 'Canada',
             'date': '20180812',
             'urls': {
-                'uci': '',
-                'rnr': ''
+                'uci': 'http://prod.chronorace.be/api/results/uci/dh/race/20180811_dh/',
+                'rnr': 'https://www.rootsandrain.com/race5902/2018-aug-12-mercedes-benz-uci-world-cup-6-mont-sainte-anne-qc/results/filters/'
             }
         },
         7: {
@@ -82,8 +82,8 @@ races = {
             'loc': 'France',
             'date': '20180826',
             'urls': {
-                'uci': '',
-                'rnr': ''
+                'uci': 'http://prod.chronorace.be/api/results/uci/dh/race/20180825_dh/',
+                'rnr': 'https://www.rootsandrain.com/race5903/2018-aug-26-mercedes-benz-uci-world-cup-7-la-bresse/results/'
             }
         }
     }
