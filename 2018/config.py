@@ -13,6 +13,26 @@ races = {
                 'uci': 'http://prod.chronorace.be/api/results/uci/dh/race/20170610_leog/',
                 'rnr': 'https://www.rootsandrain.com/race4490/2017-jun-11-uci-world-cup-3-leogang/results/filters/'
             }
+        },
+        4: {
+            'name': 'vallnord',
+            'title': 'Vallnord',
+            'loc': 'Andorra',
+            'date': '20170701',
+            'urls': {
+                'uci': 'http://prod.chronorace.be/api/results/uci/dh/race/20170826_vdso/3',
+                'rnr': 'https://www.rootsandrain.com/race4491/2017-jul-2-uci-world-cup-4-vallnord/results/filters/m'
+            }
+        },
+        7: {
+            'name': 'valdisole',
+            'title': 'Val di Sole',
+            'loc': 'Italy',
+            'date': '20170826',
+            'urls': {
+                'uci': 'http://prod.chronorace.be/api/results/uci/dh/race/20180706_dh/',
+                'rnr': 'https://www.rootsandrain.com/race4493/2017-aug-26-uci-world-cup-7-val-di-sole/results/filters/'
+            }
         }
     },
     2018: {
